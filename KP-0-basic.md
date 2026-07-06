@@ -189,7 +189,7 @@ Not: Bu yönerge, eğitimde yer alan tüm alıştırmalar için geçerlidir.
 
 **Calışma Dosyası:** 
 Blok dairsel döndür
-[`0b06_alg_BlokDairsel1Dondur-cd-v1.pdf`](KP_0_basic_material/0b06_alg_BlokDairsel1Dondur-cd-v1.pdf)
+[`0b06_alg_BlokDairsel1Dondur-cd-v2.pdf`](KP_0_basic_material/0b06_alg_BlokDairsel1Dondur-cd-v2.pdf)
 
 **Kodlar:**
 
