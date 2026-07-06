@@ -1,0 +1,35 @@
+// 0b06_alg_BlokDairsel1Dondur-v1.txt
+
+console.log("\n-> BlokDairsel1Dondur-v1\n");
+
+// Tanımla
+let n0: number;
+let n1: number;
+let n2: number;
+let n3: number;
+let n4: number;
+let n5: number;
+
+// Başlangıç değeri
+n0 = 5;
+n1 = 6;
+n2 = 7;
+n3 = -1;
+n4 = -1;
+n5 = -1;
+
+// İşlem
+n1 = n0;
+n2 = n1;
+n0 = n2;
+
+// sonuc
+console.log("n0:", n0);
+console.log("n1:", n1);
+console.log("n2:", n2);
+console.log("n3:", n3);
+console.log("n4:", n4);
+console.log("n5:", n5);
+
+// HATALI
+console.log("\n<- BlokDairsel1Dondur-v1\n");

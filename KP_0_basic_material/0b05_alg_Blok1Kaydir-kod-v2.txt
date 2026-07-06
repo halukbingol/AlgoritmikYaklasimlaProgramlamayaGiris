@@ -1,0 +1,29 @@
+// 0b05_alg_Blok1Kaydir-v2.txt
+
+console.log("\n-> Blok1Kaydir-v2\n");
+
+// Tanımla
+let n0: number;
+let n1: number;
+let n2: number;
+let n3: number;
+
+// Başlangıç değeri
+n0 = 5;
+n1 = 6;
+n2 = 7;
+n3 = -1;
+
+// İşlem
+n3 = n2;
+n2 = n1;
+n1 = n0;
+
+// sonuc
+console.log("n0:", n0);
+console.log("n1:", n1);
+console.log("n2:", n2);
+console.log("n3:", n3);
+
+// DOGRU
+console.log("\n<- Blok1Kaydir-v2\n");

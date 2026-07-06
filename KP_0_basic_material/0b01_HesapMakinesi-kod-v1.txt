@@ -1,0 +1,24 @@
+// 0b01-HesapMakinesi.txt
+
+console.log("\n-> HesapMakinesi-v1\n");
+
+// tanımla
+let n0: number;
+let n1: number;
+let n2: number;
+let n3: number; 
+
+// başlangıç değeri
+n0 = 12;
+n1 = 34;
+
+// İşlem
+n2 = n0 + n1;
+
+// sonuc
+console.log("n0:", n0);
+console.log("n1:", n1);
+console.log("n2:", n2);
+console.log("n3:", n3);
+
+console.log("\n<- HesapMakinesi-v1\n");

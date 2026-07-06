@@ -1,0 +1,46 @@
+// 0b09_SembolTablosu_AlanPrizma.txt
+
+// tanimla
+let a: number;
+let b: number;
+let c: number;
+let taban: number;
+let yan: number;
+let digerYan: number;
+let yarisi: number;
+let alan: number;
+let n8: number;
+let n9: number;
+
+// baslangic degeri
+a = 2;
+b = 3;
+c = 4;
+taban = -1;
+yan = -1;
+digerYan = -1;
+yarisi = -1;
+alan = -1;
+n8 = -1;
+n9 = -1;
+
+// islem
+taban = a * b;
+yan = a * c;
+digerYan = b * c;
+
+yarisi = taban + yan + digerYan;
+
+alan = 2 * yarisi;
+
+// sonuc
+console.log("a:", a);
+console.log("b:", b);
+console.log("c:", c);
+console.log("taban:", taban);
+console.log("yan:", yan);
+console.log("digerYan:", digerYan);
+console.log("yarisi:", yarisi);
+console.log("alan:", alan);
+console.log("n8:", n8);
+console.log("n9:", n9);

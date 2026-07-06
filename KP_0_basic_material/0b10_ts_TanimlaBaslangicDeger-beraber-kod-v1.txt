@@ -1,0 +1,14 @@
+// 0b10_ts_TanimlaBaslangicDeger-beraber.txt
+
+// tanimla
+let a: number = 5;
+let b: number = 8;
+let alan;
+
+// islem
+alan = a * b;
+
+// sonuc
+console.log("a", a);
+console.log("b", b);
+console.log("alan", alan);

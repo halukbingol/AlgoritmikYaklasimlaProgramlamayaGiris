@@ -1,0 +1,23 @@
+// 0b07_degisken_AlanDikdortgen-v3.txt
+
+console.log("-> alanDikdortgen-v3");
+
+// tanimla
+let b: number;
+let alan: number;
+let a: number;
+
+// baslangic degeri
+a = 2;
+b = 3;
+
+// islem
+alan = a * b;
+
+// sonuc
+console.log("a:", a);
+console.log("b:", b);
+console.log("alan:", alan);
+
+// DOGRU
+console.log("<- alanDikdortgen-v3");

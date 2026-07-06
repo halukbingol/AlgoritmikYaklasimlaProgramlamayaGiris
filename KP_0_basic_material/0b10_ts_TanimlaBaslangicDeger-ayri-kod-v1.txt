@@ -1,0 +1,19 @@
+// 0b10_ts_TanimlaBaslangicDeger-ayri.txt
+
+// tanimla
+let a: number;
+let alan;
+
+// baslangic degeri
+a = 5;
+
+// tanimla ve baslangic degeri
+let b: number = 8;
+
+// islem
+alan = a * b;
+
+// sonuc
+console.log("a", a);
+console.log("b", b);
+console.log("alan", alan);

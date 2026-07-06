@@ -1,0 +1,22 @@
+// 0b04_alg_YerDegistir-v1.txt
+
+console.log("->yerDegistir-v1");
+
+// Tanımla
+let n0: number;
+let n1: number;
+
+// Başlangıç değeri
+n0 = 7;
+n1 = 8;
+
+// İşlem
+n1 = n0;
+n0 = n1;
+
+// sonuc
+console.log("n0:", n0);
+console.log("n1:", n1); 
+
+// HATALI
+console.log("<-yerDegistir-v1");

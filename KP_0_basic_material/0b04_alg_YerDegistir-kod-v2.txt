@@ -1,0 +1,24 @@
+// 0b04_alg_YerDegistir-v2.txt
+
+console.log("->yerDegistir-v2");
+
+// tanimla
+let n0: number;
+let n1: number;
+let n5: number;
+
+// baslangic degeri
+n0 = 7;
+n1 = 8;
+
+// islem
+n5 = n0;
+n0 = n1;
+n1 = n5;
+
+// sonuc
+console.log("n0:", n0);
+console.log("n1:", n1);
+
+// DOGRU
+console.log("<-yerDegistir-v2");

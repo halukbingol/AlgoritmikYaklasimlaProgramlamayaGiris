@@ -1,0 +1,30 @@
+// 0b07_degisken_AlanDikdortgen-v1.txt
+
+console.log("-> alanDikdortgen-v1");
+
+// tanimla
+let n0: number; // a
+let n1: number; // b
+let n2: number; // alan = a * b  
+let n3: number;
+let n4: number;     
+
+// baslangic degeri
+n0 = 2;
+n1 = 3;
+n2 = -1;
+n3 = -1;
+n4 = -1;
+
+// islem
+n2 = n0 * n1;
+
+// sonuc
+console.log("n0:", n0);
+console.log("n1:", n1);
+console.log("n2:", n2);
+console.log("n3:", n3);
+console.log("n4:", n4);
+
+// DOGRU
+console.log("<- alanDikdortgen-v1");
